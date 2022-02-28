@@ -1,0 +1,6 @@
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\bin\Debug\AlgoritmosTIC.exe.config
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\bin\Debug\AlgoritmosTIC.exe
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\bin\Debug\AlgoritmosTIC.pdb
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\obj\Debug\AlgoritmosTIC.csproj.CoreCompileInputs.cache
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\obj\Debug\AlgoritmosTIC.exe
+C:\Users\Diego Beras\source\repos\AlgoritmosTIC\AlgoritmosTIC\obj\Debug\AlgoritmosTIC.pdb
